@@ -1,7 +1,7 @@
 Olá 👋 Eu sou Delmar de Lima
 ==============================
 
-Software Engineer
+Programador & Contador
 --------------------
 
 Mais de 6 anos desenvolvendo com PHP e Delphi\
@@ -24,9 +24,6 @@ Conhecimento em Linux, Cloudflare R2 (AWS S3), Criação de sistemas utilizando 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
