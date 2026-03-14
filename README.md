@@ -26,7 +26,7 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React_Native-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/-React%20native-000?&logo=React" alt="React Native" />
 
 </a>
 
@@ -62,7 +62,7 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
 
 </a>
 
@@ -80,13 +80,13 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask" />
 
 </a>
 
@@ -122,7 +122,7 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 </a>
 
@@ -140,13 +140,13 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 <a href="https://cloudflare.com/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cloudflare_R2-F38020%3Fstyle%3Dfor-the-badge%26logo%3Dcloudflare%26logoColor%3Dwhite" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
 
 </a>
 
 <a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/" target="_blank" rel="noreferrer">
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Cloudflare_Tunnels-F38020%3Fstyle%3Dfor-the-badge%26logo%3Dcloudflare%26logoColor%3Dwhite" alt="Cloudflare Tunnels" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" alt="Cloudflare Tunnels" />
 
 </a>
 
@@ -162,7 +162,7 @@ Atualmente, estou aplicando minha visão unificada de Contabilidade e Tecnologia
 
 </a>
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/IDE-Antigravity-1e1e1e%3Fstyle%3Dfor-the-badge" alt="Antigravity IDE" />
+<img src="https://img.shields.io/badge/Antigravity-supported-4285F4?logo=google&logoColor=white" alt="Antigravity IDE" />
 
 <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
 
